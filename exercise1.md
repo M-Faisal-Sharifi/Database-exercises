@@ -8,7 +8,6 @@ Write your answer here.
 
 ---
 
-User View:** The part of database seen by a specific user
 
 1.9
 What is the difference between controlled and uncontrolled redundancy?
